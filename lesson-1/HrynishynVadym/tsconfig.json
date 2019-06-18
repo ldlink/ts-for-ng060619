@@ -1,0 +1,10 @@
+{
+    "extends": "./../../tsconfig.json",
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "es2019"
+    },
+    "include": [
+        "./masterpiece.ts"
+    ]
+}

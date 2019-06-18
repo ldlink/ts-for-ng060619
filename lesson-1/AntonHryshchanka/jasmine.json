@@ -1,0 +1,4 @@
+{
+    "spec_dir": "lesson-1/AntonHryshchanka",
+    "spec_files": ["*test.ts"]
+ }
